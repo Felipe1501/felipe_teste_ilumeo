@@ -1,0 +1,53 @@
+.workday-page .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--padding-medium);
+  }
+  
+.workday-page p {
+    font-size: var(--font-size-medium);
+}
+  
+.workday-page strong {
+    color: var(--color-highlight);
+}
+  
+.endday-page .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--padding-medium);
+}
+  
+.endday-page p {
+    font-size: var(--font-size-medium);
+}
+  
+.endday-page strong {
+    color: var(--color-highlight);
+}
+  
+.endday-page .shifts {
+    margin-top: var(--padding-large);
+}
+
+.endday-page .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--padding-medium);
+}
+  
+.endday-page p {
+    font-size: var(--font-size-medium);
+}
+  
+.endday-page strong {
+    color: var(--color-highlight);
+}
+  
+.endday-page .shifts {
+    margin-top: var(--padding-large);
+}
+  
